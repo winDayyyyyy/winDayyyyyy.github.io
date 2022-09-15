@@ -2,24 +2,23 @@
 layout: default
 title: "问答：Faqs"
 ---
-记录工作中遇到的一些小问题及解决办法，以防忘记后重头再找答案。
+#### 记录这学期学习查阅的一些资料
+[make工具和Makefile的使用](https://blog.csdn.net/FRS2023/article/details/120839849)
 
-####格式：
-问：Win7下 Eclipse中按"Alt+Ctrl+Down或Alt+Ctrl+Up"时，结果屏幕倒了怎么办？  
-答：是不是和其它应用的快捷键冲突了？比如Intel显卡，则可选择“图形属性”>“选项和支持”，将对应快捷键换掉。参考：http://www.2cto.com/os/201201/116412.html
+[exec函数详解]([(30条消息) exec函数详解_amoscykl的博客-CSDN博客_exec函数](https://blog.csdn.net/amoscykl/article/details/80354052))
 
-####或作为url收藏记录
-1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>  
-2,Oracle现在真是恶心，下载个Java SDK还非得让登陆不可。只好再找下载地址了: <http://ghaffarian.net/downloads/>  
-3,git文章收藏:  
-Git分支管理策略: <http://www.ruanyifeng.com/blog/2012/07/git.html>    
-Git查看、删除、重命名远程分支和tag: http://zengrong.net/post/1746.htm  
-4,Google无障碍浏览链接：<https://github.com/greatfire/wiki>  
-5,在线Android等源码：<http://www.grepcode.com/>, <http://androidxref.com/>  
-6,Twitter University: <http://www.bluemobi.cn/>  
-更多请看本文评论，欢迎来盖楼！
+[ linux中sigaction函数详解_魏波-的博客-CSDN博客_sigaction](https://blog.csdn.net/weibo1230123/article/details/81411827)
+
+[ wait函数详解_丿咫尺天涯的博客-CSDN博客_wait函数](https://blog.csdn.net/a2796749/article/details/79383088)
+
+[argc 和 argv_Drdajie的博客-CSDN博客_argv和argc](https://blog.csdn.net/wtfloser/article/details/89344038)
+
+[解决问题：import torch失败和torch.cuda.is_available()返回false_JialiSun的博客-CSDN博客_import torch失败](https://blog.csdn.net/weixin_45910027/article/details/125961431)
+
+[PyTorch和CUDA版本对应关系 - 墨莲玦 - 博客园 (cnblogs.com)](https://www.cnblogs.com/zhoujiayingvana/p/15827369.html)
 
 <!-- Blog Comments -->
+
 <div class="media">
   <!-- UY BEGIN -->
   <div id="uyan_frame">
